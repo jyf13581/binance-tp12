@@ -1,0 +1,12 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# 本地运行状态与密钥（绝不上传）
+state.json
+state.json.tmp
+*.corrupt
+.env
+cost_basis.json

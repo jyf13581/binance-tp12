@@ -1,0 +1,1 @@
+{"BTC":95000.0,"ETH":3200.0,"_comment":"手动成本覆盖示例。复制为 cost_basis.json 后填入各资产的已知平均成本（USD 计价）。cost_basis.json 已在 .gitignore 中，不会上传。"}
